@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-scheduler-amd64:v1.14.1
+FROM k8s.gcr.io/kube-scheduler:v1.17.3
 MAINTAINER mritd <mritd@mritd.me>
